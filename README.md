@@ -41,7 +41,6 @@ This platform is optimized for cross-device compatibility and provides personali
 - **Personalization improvement:** 30% enhancement in personalization through real-time image generation with **DALLE AI**.
 
 
----
 ##Screenshot
 ![image](https://github.com/user-attachments/assets/918dade8-7666-4207-99b0-12289912f3de)
 
